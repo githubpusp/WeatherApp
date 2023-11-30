@@ -1,6 +1,6 @@
-  <p >
-    <h1 align="center">Weather App</h1>
-  </p>
+<p>
+  <h1 align="center">Weather App</h1>
+</p>
 
 
 <img width="379" alt="image" src="https://github.com/githubpusp/WeatherApp/assets/126225745/02ffa336-609f-4bbc-9503-ec3d6849d81d">
