@@ -1,5 +1,3 @@
-<h1>Weather App</h1> 
-
   <p >
     <h1 align="center">Weather App</h1>
   </p>
