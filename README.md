@@ -1,7 +1,7 @@
 <h1>Weather App</h1> 
 
   <p align="center">
-    <b>Weather App</b>
+    <h1>Weather App</h1>
   </p>
 
 
