@@ -1,6 +1,9 @@
 <h1>Weather App</h1> 
+
 <p align="center">
-  <b>Your centered text goes here</b>
+  <h1>
+  <b>Weather App</b>
+  </h1>
 </p>
 
 <img width="379" alt="image" src="https://github.com/githubpusp/WeatherApp/assets/126225745/02ffa336-609f-4bbc-9503-ec3d6849d81d">
